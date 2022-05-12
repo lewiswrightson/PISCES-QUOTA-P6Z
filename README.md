@@ -31,7 +31,7 @@ MY_SRC directory
 EXPREF directory (namelists, file_def, field_def and other xml files)
 
 
-#### In namelist_pisces_ref_p6z:
+_In namelist_pisces_ref_p6z:_
 
 Select flag ln_p6z to select explicit diazotrophy
 
@@ -42,15 +42,15 @@ Flag ln_tiue controls the temperature dependence of the nitrogen fixation Fe use
 Flag ln_tiue controls the temperature dependence of the nitrogen fixation P use efficiency 
 
 
-### Installing 
+### Installing: 
 
 The configuration is compiled using ./makenemo -r P6Z
 
-### Authors
+### Authors:
 
 Lewis Wrightson and Alessandro Tagliabue 
 
-### Acknowledgements
+### Acknowledgements:
 
 Conducted during a Ph.D. study supported by the Natural Environment Research Council (NERC) EAO Doctoral Training Partnership funded by NERC (NE/L002469/1)
 
