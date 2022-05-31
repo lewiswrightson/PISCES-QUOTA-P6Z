@@ -30,7 +30,7 @@ MY_SRC directory
 
 EXPREF directory (namelists, file_def, field_def and other xml files)
 
-Model restart file: 10.5281/zenodo.6598576
+Model restart file: https://doi.org/10.5281/zenodo.6598576
 
 
 _In namelist_pisces_ref_p6z:_
