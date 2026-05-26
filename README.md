@@ -41,7 +41,7 @@ Flag ln_tricho chooses diazotroph setup: _Trichodesmium_ (True) and _Crocosphaer
 
 Flag ln_tiue controls the temperature dependence of the nitrogen fixation Fe use efficiency 
 
-Flag ln_tiue controls the temperature dependence of the nitrogen fixation P use efficiency 
+Flag ln_tpue controls the temperature dependence of the nitrogen fixation P use efficiency 
 
 
 ### Installing: 
