@@ -18,7 +18,7 @@ Jiang, H.-B., Fu, F.-X., Rivero-Calle, S., Levine, N. M., Sañudo-Wilhelmy, S. A
 Yang, N., Merkel, C. A., Lin, Y.-A., Levine, N. M., Hawco, N. J., Jiang, H.-B., Qu, P.-P., DeMers, M. A., Webb, E. A., Fu, F.-X., & Hutchins, D. A. (2021). Warming iron-limited oceans enhance nitrogen fixation and drive biogeographic specialization of the globally important cyanobacterium Crocosphaera. Frontiers in Marine Science, 8(118). doi:10.3389/fmars.2021.628363
 
 ### Papers:
-
+Wrightson, L., Yang, N., Mahaffey, C., Hutchins, D. A., & Tagliabue, A. (2022). Integrating the impact of global change on the niche and physiology of marine nitrogen-fixing cyanobacteria. Global Change Biology, 28, 7078–7093. https://doi.org/10.1111/gcb.16399
 
 ### Prerequisites / Getting Started:
 
